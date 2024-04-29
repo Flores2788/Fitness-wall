@@ -1,0 +1,4 @@
+/Users/flores/Documents/Programming/Programming 2/Exam-Unit-4/obj/Debug/net7.0/Exam-Unit-4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flores/Documents/Programming/Programming 2/Exam-Unit-4/obj/Debug/net7.0/Exam-Unit-4.AssemblyInfoInputs.cache
+/Users/flores/Documents/Programming/Programming 2/Exam-Unit-4/obj/Debug/net7.0/Exam-Unit-4.AssemblyInfo.cs
+/Users/flores/Documents/Programming/Programming 2/Exam-Unit-4/obj/Debug/net7.0/Exam-Unit-4.csproj.CoreCompileInputs.cache
