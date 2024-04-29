@@ -68,6 +68,11 @@ namespace Blinky
     // Turn on the LED associated with the pressed button
     led.Write(PinValue.Low);
     rounds++;
+    var currentTime = DateTime.Now;
+    Console.WriteLine($"Button was pressed at {currentTime}. Total presses: {rounds}");
+
+    // Log the round data with time
+    string logText = $"Button was pressed at {currentTime}. Total presses: {rounds}" + Environment.NewLine;
     Console.WriteLine("Buttons were pressed: " + rounds + " times");
 
     // Log the round data
